@@ -1,1 +1,1 @@
-# ds-pythagorean_triples
+# pythagorean_triples
